@@ -21,7 +21,6 @@ body {
 }
 .screen {
   background: rgb(62, 6, 70, 0.7);
- 
   margin-top: 30px;
   display: flex;
   flex-wrap: wrap;
